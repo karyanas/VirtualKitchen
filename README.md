@@ -41,3 +41,10 @@ The database schema can be found in the ['/database/virtualkitchen_schema.sql'](
 ### Recipe Details
 ![Recipe Details Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/recipe_view.png)
 
+## Future improvements
+I plan to continue developing VirtualKitchen into a more complete and scalable application by:
+- Rebuilding the project in Laravel to gain real-worl framework experience and apply MVC design principles.
+- Adding user profile pictures, recipe categories, and ratings.
+- Implementing an image upload system for recipes.
+
+These improvements will help me transition from procedural PHP to modern, framework-based development making it a valuable step toward professional software engineering practice.
