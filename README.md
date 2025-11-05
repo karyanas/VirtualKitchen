@@ -3,7 +3,6 @@
 VirtualKitchen is a full-stack web aplication that allows users to create, edit, and share their own recipes.
 Built using PHP, MySQL, HTML, CSS and Bootstrap.
 
----
 ## Features:
 - User authenticaiton (register, login, logout)
 - Create, edit, and delete recipes
@@ -12,18 +11,15 @@ Built using PHP, MySQL, HTML, CSS and Bootstrap.
 - View recipes from other users
 - Guest mode (view and search only)
 
----
 ## Technologies Used:
 - PHP (vanilla)
 - MySQL (database)
 - HTML and CSS
 - Bootstrap CSS
 
----
 ## Database
 The database schema can be found in the ['/database/virtualkitchen_schema.sql'](database/virtualkitchen_schema.sql) file
 
----
 ## Hot to Run Locally:
 1. Clone this repository:
    '''bash
@@ -33,16 +29,15 @@ The database schema can be found in the ['/database/virtualkitchen_schema.sql'](
 4. Start a local server (XAMPP or similar).
 5. Open in browser: htpp://localhost/VirtualKitchen
 
----
 ## Screenshots
 
 ### Homepage
-![Guest Homepage Screenshot] (screenshots/homepage_guest.png)
-![User Homepage Screenshot] (screenshots/homepage_user.png)
+![Guest Homepage Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/homepage_guest.png)
+![User Homepage Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/homepage_user.png)
 
 ### Dashboard
-![User Dashboard Screenshot] (screenshots/dashboard.png)
+![User Dashboard Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/dashboard.png)
 
 ### Recipe Details
-![Recipe Details Screenshot] (screenshots/recipe_details.png)
+![Recipe Details Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/recipe_details.png)
 
