@@ -39,5 +39,5 @@ The database schema can be found in the ['/database/virtualkitchen_schema.sql'](
 ![User Dashboard Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/dashboard.png)
 
 ### Recipe Details
-![Recipe Details Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/recipe_details.png)
+![Recipe Details Screenshot](https://github.com/karyanas/VirtualKitchen/blob/main/screenshots/recipe_view.png)
 
